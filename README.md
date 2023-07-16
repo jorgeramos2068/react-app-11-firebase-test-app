@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React web application that implements a simple integration with Firebase. It also implements Redux.
 
 ## Available Scripts
 
